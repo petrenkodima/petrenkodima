@@ -38,7 +38,8 @@
 <br />
 <br />
 <br />
-
+📈 My GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petrenkodima&show_icons=true&locale=en&layout=compact&theme=gotham" alt="petrenkodima" /></p>
 
 ![Dmitry's github stats](https://github-readme-stats.vercel.app/api?username=petrenkodima&show_icons=true&locale=en&layout=compact&theme=gotham)
 
