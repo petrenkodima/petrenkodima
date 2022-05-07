@@ -11,7 +11,7 @@
 
 #### Hi, I'm [Dmitry Petrenko!](https://t.me/petrenkodima) A promising novice server developer 🚀 from Russia.
 
-  <img align="right" alt="GIF" src="https://github.com/petrenkodima/petrenkodima/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/petrenkodima/petrenkodima/blob/main/duke.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
