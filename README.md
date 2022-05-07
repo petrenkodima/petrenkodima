@@ -16,7 +16,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨‍💻 I’m currently studying at ITMO University;
-- 👨‍🏫 I’m currently learning Java, Spring;
+- 👨‍🏫 I prefer Java, Spring;
 - 🗣️ Ask me about Java, I am happy to help;
 - 📩 How to reach me: [@petrenkodima](https://t.me/petrenkodima), [@d_m_i_t_r_y_0_0](https://vk.com/d_m_i_t_r_y_0_0);
 <br />
