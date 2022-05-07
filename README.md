@@ -35,12 +35,3 @@
 <code><img height="30" src="https://github.com/petrenkodima/petrenkodima/blob/main/hibernate.jpg"></code>
 <code><img height="30" src="https://github.com/petrenkodima/petrenkodima/blob/main/ico-spring.svg"></code>
 <code><img height="30" src="https://github.com/petrenkodima/petrenkodima/blob/main/java-ee-logo.png"></code>
-<br />
-<br />
-<br />
-📈 My GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petrenkodima&show_icons=true&locale=en&layout=compact&theme=gotham" alt="petrenkodima" /></p>
-
-![Dmitry's github stats](https://github-readme-stats.vercel.app/api?username=petrenkodima&show_icons=true&locale=en&layout=compact&theme=gotham)
-
-<code align = "right"> ![](https://visitor-badge.glitch.me/badge?page_id=lnp.lnp) </code>
