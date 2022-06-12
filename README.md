@@ -1,4 +1,4 @@
-### Hey <img src="https://media.giphy.com/media/AWNxDbtHGIJDW/giphy.gif" width="25px"> there! I'm Dmitry Petrenko!
+### Hey there! I'm Dmitry Petrenko!
 
 <a href="https://vk.com/d_m_i_t_r_y_0_0">
   <img align="left" alt="Dmitry's vk.com" width="22px" src="https://github.com/petrenkodima/petrenkodima/blob/main/vk.svg" />
