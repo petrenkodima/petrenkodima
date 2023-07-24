@@ -15,15 +15,13 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨‍💻 I’m currently studying at ITMO University;
-- 👨‍🏫 I prefer Java, Spring;
-- 🗣️ Ask me about Java, I am happy to help;
+- 👨‍💻 I signed up to study at ITMO University and DonNTU;
+- 👨‍🏫 I prefer Java, Spring and Kotlin, Ktor;
+- 🗣️ Ask me about Java or Kotlin I'll be happy to help;
 - 📩 How to reach me: [@petrenkodima](https://t.me/petrenkodima), [@d_m_i_t_r_y_0_0](https://vk.com/d_m_i_t_r_y_0_0);
 <br />
 
 **Languages and Tools:**
-
-
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://github.com/petrenkodima/petrenkodima/blob/main/java-ee-logo.png"></code>
@@ -32,7 +30,8 @@
 <code><img height="30" src="https://github.com/petrenkodima/petrenkodima/blob/main/php.png"></code>
 <code><img height="30" src="https://github.com/petrenkodima/petrenkodima/blob/main/laravel.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
+</code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
